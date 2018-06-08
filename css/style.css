@@ -1,0 +1,72 @@
+body {
+  background-color: cadetblue;
+  color: black;
+  background: url('images/memphis-colorful.png')
+}
+
+a {
+  color: white;
+}
+
+nav {
+  background-color: #0786ca;
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 75%;
+}
+
+p {
+  padding: 10px;
+}
+
+.story-text {
+  background: white;
+  border-radius: 20px;
+  border: 5px solid coral;
+  width: 60%;
+}
+
+figure.left {
+  width: 30%;
+}
